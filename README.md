@@ -42,6 +42,9 @@ Soy un desarrollador de software apasionado por la tecnología, la innovación y
 
 ---
 
+**Idiomas:** Español (nativo), Inglés (básico)
+
+
 ## 📂 Proyecto en progreso
 
 ### 🔧 AuroraFit
