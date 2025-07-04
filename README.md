@@ -61,15 +61,15 @@ Sistema de gestión para gimnasios, con soporte por roles y sedes.
 
 ## 🌐 Conéctate conmigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ricardoz1998) *(confírmame si esta es tu URL real)*
-- 🌐 [Portafolio Personal](https://tusitio.com) *(pásame el link real si quieres que lo incluya)*
-- 📧 ricardoz@example.com *(dime qué correo deseas usar públicamente)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/ricardoz1998) 
+- 🌐 [Portafolio Personal](https://tusitio.com) 
+- 📧 ricardoz@example.com 
 
 ---
 
 > 💬 “Estoy en constante evolución como desarrollador, siempre buscando mejorar mis habilidades y aportar valor a través de la tecnología.”
 
-⭐ ¡Gracias por visitar mi perfil! Si te gusta alguno de mis proyectos, no dudes en dejar una ⭐.
+⭐ ¡Gracias por visitar mi perfil!⭐
 
 
 
