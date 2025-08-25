@@ -5,11 +5,6 @@ Soy Desarrollador de Software Full Stack y estudiante de la Universidad del Vall
 
 Me apasiona crear soluciones tecnológicas robustas, escalables y bien estructuradas.
 
-### 🎯 Especialización
-- **Backend Development** (En proceso de especialización)
-- **Full Stack Development** 
-- **Arquitectura de Software**
-
 ---
 
 ## 🛠️ Stack Tecnológico
