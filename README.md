@@ -15,6 +15,7 @@ Me apasiona crear soluciones tecnológicas robustas, escalables y bien estructur
 ## 🛠️ Stack Tecnológico
 
 ### **💻 Lenguajes y Frameworks**
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
