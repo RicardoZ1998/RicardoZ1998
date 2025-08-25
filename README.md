@@ -39,7 +39,6 @@ Me apasiona crear soluciones tecnológicas robustas, escalables y bien estructur
 ### **☁️ Cloud**
 ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 - **Servicios:** EC2, S3, RDS
-- **Herramientas:** Docker, Jenkins, CI/CD
 
 ---
 
