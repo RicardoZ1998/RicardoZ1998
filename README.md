@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Ricardo Zuluaga Pulgarín
 
 ## 🚀 Sobre mí
-Soy un **Desarrollador de Software** con 1 año de experiencia en desarrollo freelance, especializado en tecnologías backend con sólidos conocimientos en frontend. Actualmente cursando el último semestre de **Tecnología en Desarrollo de Software** en la Universidad del Valle.
+Soy Desarrollador de Software Full Stack y estudiante de la Universidad del Valle, actualmente cursando la carrera de Tecnología en Desarrollo de Software. Me encuentro en proceso de admisión para Ingeniería en Sistemas, con el objetivo de seguir fortaleciendo mis habilidades y conocimientos en el área.
 
 Me apasiona crear soluciones tecnológicas robustas, escalables y bien estructuradas.
 
