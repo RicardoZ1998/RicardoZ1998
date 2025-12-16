@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Ricardo Zuluaga Pulgarín
 
 ## 🚀 Sobre mí
-Soy Desarrollador de Software Full Stack y estudiante de la Universidad del Valle, actualmente cursando la carrera de Tecnología en Desarrollo de Software. Me encuentro en proceso de admisión para Ingeniería en Sistemas, con el objetivo de seguir fortaleciendo mis habilidades y conocimientos en el área.
+Soy Desarrollador de Software Full Stack y estudiante de la Universidad del Valle, actualmente cursando la carrera de Ingeniería en Sistemas, siempre busco la manera de aprender cosas nuevas, con el objetivo de seguir fortaleciendo mis habilidades y conocimientos en el área.
 
 Me apasiona crear soluciones tecnológicas robustas, escalables y bien estructuradas.
 
