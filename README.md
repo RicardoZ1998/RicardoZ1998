@@ -39,7 +39,6 @@ Me apasiona crear soluciones tecnológicas robustas, escalables y bien estructur
 
 ## 🎓 Formación Académica
 - **Técnico en Sistemas** - SENA *(Terminado)*
-- **Tecnología en Desarrollo de Software** - Universidad del Valle *(Último semestre)*
 - **Ingeniería en Sistemas** - Universidad del Valle *(En proceso)*
 
 
@@ -60,7 +59,7 @@ Actualmente profundizando en:
 - Desarrollo de aplicaciones full-stack con React y Node.js
 - Implementación de APIs RESTful
 - Integración con bases de datos SQL Server y Oracle
-- Despliegue en AWS con Docker y herramientas de CI/CD
+- Despliegue en AWS con Docker
 
 ---
 
@@ -116,7 +115,6 @@ Un sistema completo de gestión para gimnasios con arquitectura multi-tenant y s
 
 ### 🎯 Objetivos Profesionales
 - Especialización continua en arquitecturas backend robustas
-- Contribución a proyectos de código abierto
 - Desarrollo de soluciones que impacten positivamente a las organizaciones
 - Crecimiento profesional en equipos de desarrollo ágiles
 
